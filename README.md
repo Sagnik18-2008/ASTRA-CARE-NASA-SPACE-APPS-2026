@@ -137,7 +137,8 @@ A structured API architecture connecting health records, biomarkers, alerts, and
 
 Watch our project demonstration to explore the platform, its features, and its approach to astronaut health monitoring.
 
-https://github.com/user-attachments/assets/0acabf4e-97b9-4335-87da-04b50416fb34
+
+https://github.com/user-attachments/assets/3ffcf2e2-2fa7-44af-aaea-2c093cbaddb0
 
 ---
 

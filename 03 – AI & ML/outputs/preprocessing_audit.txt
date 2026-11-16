@@ -1,0 +1,11 @@
+ASTRA CARE — PREPROCESSING AUDIT
+=======================================================
+
+Observations: 28
+Biomarkers: 28
+Imputation: Median
+Transformation: NumPy log1p
+Scaling: StandardScaler
+Missing values before: 1
+Missing values after: 0
+Preprocessing completed successfully.

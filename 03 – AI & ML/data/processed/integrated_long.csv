@@ -1,0 +1,785 @@
+ID,Timepoint,Analyte,Concentration,Unit,Data_Source,Value_Origin,Phase
+C001,L-92,GLUCOSE,83.0,mg/dL,CMP,Reported,Preflight
+C001,L-92,UREA NITROGEN (BUN),25.0,mg/dL,CMP,Reported,Preflight
+C001,L-92,CREATININE,1.24,mg/dL,CMP,Reported,Preflight
+C001,L-92,eGFR NON-AFR. AMERICAN,73.0,mL/min/1.73m2,CMP,Reported,Preflight
+C001,L-92,eGFR AFRICAN AMERICAN,85.0,mL/min/1.73m2,CMP,Reported,Preflight
+C001,L-92,BUN/CREATININE RATIO,20.161290322580644,(calc),Derived from BUN / Creatinine,Derived,Preflight
+C001,L-92,SODIUM,141.0,mmol/L,CMP,Reported,Preflight
+C001,L-92,POTASSIUM,4.6,mmol/L,CMP,Reported,Preflight
+C001,L-92,CHLORIDE,104.0,mmol/L,CMP,Reported,Preflight
+C001,L-92,CARBON DIOXIDE,23.0,mmol/L,CMP,Reported,Preflight
+C001,L-92,CALCIUM,9.7,mg/dL,CMP,Reported,Preflight
+C001,L-92,PROTEIN; TOTAL,7.3,g/dL,CMP,Reported,Preflight
+C001,L-92,ALBUMIN,5.0,g/dL,CMP,Reported,Preflight
+C001,L-92,GLOBULIN,2.3,g/dL,CMP,Reported,Preflight
+C001,L-92,ALBUMIN/GLOBULIN RATIO,2.2,(calc),CMP,Reported,Preflight
+C001,L-92,BILIRUBIN; TOTAL,0.7,mg/dL,CMP,Reported,Preflight
+C001,L-92,ALKALINE PHOSPHATASE,51.0,U/L,CMP,Reported,Preflight
+C001,L-92,AST,15.0,U/L,CMP,Reported,Preflight
+C001,L-92,ALT,15.0,U/L,CMP,Reported,Preflight
+C001,L-44,GLUCOSE,80.0,mg/dL,CMP,Reported,Preflight
+C001,L-44,UREA NITROGEN (BUN),19.0,mg/dL,CMP,Reported,Preflight
+C001,L-44,CREATININE,1.1,mg/dL,CMP,Reported,Preflight
+C001,L-44,eGFR NON-AFR. AMERICAN,85.0,mL/min/1.73m2,CMP,Reported,Preflight
+C001,L-44,eGFR AFRICAN AMERICAN,98.0,mL/min/1.73m2,CMP,Reported,Preflight
+C001,L-44,BUN/CREATININE RATIO,17.27272727272727,(calc),Derived from BUN / Creatinine,Derived,Preflight
+C001,L-44,SODIUM,139.0,mmol/L,CMP,Reported,Preflight
+C001,L-44,POTASSIUM,4.2,mmol/L,CMP,Reported,Preflight
+C001,L-44,CHLORIDE,101.0,mmol/L,CMP,Reported,Preflight
+C001,L-44,CARBON DIOXIDE,26.0,mmol/L,CMP,Reported,Preflight
+C001,L-44,CALCIUM,10.0,mg/dL,CMP,Reported,Preflight
+C001,L-44,PROTEIN; TOTAL,7.7,g/dL,CMP,Reported,Preflight
+C001,L-44,ALBUMIN,5.0,g/dL,CMP,Reported,Preflight
+C001,L-44,GLOBULIN,2.7,g/dL,CMP,Reported,Preflight
+C001,L-44,ALBUMIN/GLOBULIN RATIO,1.9,(calc),CMP,Reported,Preflight
+C001,L-44,BILIRUBIN; TOTAL,0.9,mg/dL,CMP,Reported,Preflight
+C001,L-44,ALKALINE PHOSPHATASE,46.0,U/L,CMP,Reported,Preflight
+C001,L-44,AST,18.0,U/L,CMP,Reported,Preflight
+C001,L-44,ALT,16.0,U/L,CMP,Reported,Preflight
+C001,L-3,GLUCOSE,69.0,mg/dL,CMP,Reported,Preflight
+C001,L-3,UREA NITROGEN (BUN),20.0,mg/dL,CMP,Reported,Preflight
+C001,L-3,CREATININE,1.37,mg/dL,CMP,Reported,Preflight
+C001,L-3,eGFR NON-AFR. AMERICAN,65.0,mL/min/1.73m2,CMP,Reported,Preflight
+C001,L-3,eGFR AFRICAN AMERICAN,75.0,mL/min/1.73m2,CMP,Reported,Preflight
+C001,L-3,BUN/CREATININE RATIO,15.0,(calc),CMP,Reported,Preflight
+C001,L-3,SODIUM,142.0,mmol/L,CMP,Reported,Preflight
+C001,L-3,POTASSIUM,3.9,mmol/L,CMP,Reported,Preflight
+C001,L-3,CHLORIDE,102.0,mmol/L,CMP,Reported,Preflight
+C001,L-3,CARBON DIOXIDE,26.0,mmol/L,CMP,Reported,Preflight
+C001,L-3,CALCIUM,9.6,mg/dL,CMP,Reported,Preflight
+C001,L-3,PROTEIN; TOTAL,7.4,g/dL,CMP,Reported,Preflight
+C001,L-3,ALBUMIN,4.9,g/dL,CMP,Reported,Preflight
+C001,L-3,GLOBULIN,2.5,g/dL,CMP,Reported,Preflight
+C001,L-3,ALBUMIN/GLOBULIN RATIO,2.0,(calc),CMP,Reported,Preflight
+C001,L-3,BILIRUBIN; TOTAL,1.0,mg/dL,CMP,Reported,Preflight
+C001,L-3,ALKALINE PHOSPHATASE,45.0,U/L,CMP,Reported,Preflight
+C001,L-3,AST,15.0,U/L,CMP,Reported,Preflight
+C001,L-3,ALT,13.0,U/L,CMP,Reported,Preflight
+C001,R+1,GLUCOSE,90.0,mg/dL,CMP,Reported,Postflight
+C001,R+1,UREA NITROGEN (BUN),18.0,mg/dL,CMP,Reported,Postflight
+C001,R+1,CREATININE,1.12,mg/dL,CMP,Reported,Postflight
+C001,R+1,eGFR NON-AFR. AMERICAN,83.0,mL/min/1.73m2,CMP,Reported,Postflight
+C001,R+1,eGFR AFRICAN AMERICAN,96.0,mL/min/1.73m2,CMP,Reported,Postflight
+C001,R+1,BUN/CREATININE RATIO,16.07142857142857,(calc),Derived from BUN / Creatinine,Derived,Postflight
+C001,R+1,SODIUM,138.0,mmol/L,CMP,Reported,Postflight
+C001,R+1,POTASSIUM,4.4,mmol/L,CMP,Reported,Postflight
+C001,R+1,CHLORIDE,102.0,mmol/L,CMP,Reported,Postflight
+C001,R+1,CARBON DIOXIDE,24.0,mmol/L,CMP,Reported,Postflight
+C001,R+1,CALCIUM,9.7,mg/dL,CMP,Reported,Postflight
+C001,R+1,PROTEIN; TOTAL,7.5,g/dL,CMP,Reported,Postflight
+C001,R+1,ALBUMIN,4.9,g/dL,CMP,Reported,Postflight
+C001,R+1,GLOBULIN,2.6,g/dL,CMP,Reported,Postflight
+C001,R+1,ALBUMIN/GLOBULIN RATIO,1.9,(calc),CMP,Reported,Postflight
+C001,R+1,BILIRUBIN; TOTAL,1.2,mg/dL,CMP,Reported,Postflight
+C001,R+1,ALKALINE PHOSPHATASE,52.0,U/L,CMP,Reported,Postflight
+C001,R+1,AST,16.0,U/L,CMP,Reported,Postflight
+C001,R+1,ALT,9.0,U/L,CMP,Reported,Postflight
+C001,R+45,GLUCOSE,84.0,mg/dL,CMP,Reported,Postflight
+C001,R+45,UREA NITROGEN (BUN),15.0,mg/dL,CMP,Reported,Postflight
+C001,R+45,CREATININE,1.11,mg/dL,CMP,Reported,Postflight
+C001,R+45,eGFR NON-AFR. AMERICAN,84.0,mL/min/1.73m2,CMP,Reported,Postflight
+C001,R+45,eGFR AFRICAN AMERICAN,97.0,mL/min/1.73m2,CMP,Reported,Postflight
+C001,R+45,BUN/CREATININE RATIO,13.513513513513512,(calc),Derived from BUN / Creatinine,Derived,Postflight
+C001,R+45,SODIUM,138.0,mmol/L,CMP,Reported,Postflight
+C001,R+45,POTASSIUM,4.0,mmol/L,CMP,Reported,Postflight
+C001,R+45,CHLORIDE,100.0,mmol/L,CMP,Reported,Postflight
+C001,R+45,CARBON DIOXIDE,28.0,mmol/L,CMP,Reported,Postflight
+C001,R+45,CALCIUM,9.6,mg/dL,CMP,Reported,Postflight
+C001,R+45,PROTEIN; TOTAL,7.2,g/dL,CMP,Reported,Postflight
+C001,R+45,ALBUMIN,4.9,g/dL,CMP,Reported,Postflight
+C001,R+45,GLOBULIN,2.3,g/dL,CMP,Reported,Postflight
+C001,R+45,ALBUMIN/GLOBULIN RATIO,2.1,(calc),CMP,Reported,Postflight
+C001,R+45,BILIRUBIN; TOTAL,,mg/dL,CMP,Reported,Postflight
+C001,R+45,ALKALINE PHOSPHATASE,46.0,U/L,CMP,Reported,Postflight
+C001,R+45,AST,13.0,U/L,CMP,Reported,Postflight
+C001,R+45,ALT,11.0,U/L,CMP,Reported,Postflight
+C001,R+82,GLUCOSE,91.0,mg/dL,CMP,Reported,Postflight
+C001,R+82,UREA NITROGEN (BUN),22.0,mg/dL,CMP,Reported,Postflight
+C001,R+82,CREATININE,1.25,mg/dL,CMP,Reported,Postflight
+C001,R+82,eGFR NON-AFR. AMERICAN,73.0,mL/min/1.73m2,CMP,Reported,Postflight
+C001,R+82,eGFR AFRICAN AMERICAN,84.0,mL/min/1.73m2,CMP,Reported,Postflight
+C001,R+82,BUN/CREATININE RATIO,17.6,(calc),Derived from BUN / Creatinine,Derived,Postflight
+C001,R+82,SODIUM,140.0,mmol/L,CMP,Reported,Postflight
+C001,R+82,POTASSIUM,4.3,mmol/L,CMP,Reported,Postflight
+C001,R+82,CHLORIDE,101.0,mmol/L,CMP,Reported,Postflight
+C001,R+82,CARBON DIOXIDE,27.0,mmol/L,CMP,Reported,Postflight
+C001,R+82,CALCIUM,10.1,mg/dL,CMP,Reported,Postflight
+C001,R+82,PROTEIN; TOTAL,7.8,g/dL,CMP,Reported,Postflight
+C001,R+82,ALBUMIN,5.1,g/dL,CMP,Reported,Postflight
+C001,R+82,GLOBULIN,2.7,g/dL,CMP,Reported,Postflight
+C001,R+82,ALBUMIN/GLOBULIN RATIO,1.9,(calc),CMP,Reported,Postflight
+C001,R+82,BILIRUBIN; TOTAL,1.2,mg/dL,CMP,Reported,Postflight
+C001,R+82,ALKALINE PHOSPHATASE,49.0,U/L,CMP,Reported,Postflight
+C001,R+82,AST,16.0,U/L,CMP,Reported,Postflight
+C001,R+82,ALT,15.0,U/L,CMP,Reported,Postflight
+C001,R+194,GLUCOSE,87.0,mg/dL,CMP,Reported,Postflight
+C001,R+194,UREA NITROGEN (BUN),28.0,mg/dL,CMP,Reported,Postflight
+C001,R+194,CREATININE,1.29,mg/dL,CMP,Reported,Postflight
+C001,R+194,eGFR NON-AFR. AMERICAN,69.0,mL/min/1.73m2,CMP,Reported,Postflight
+C001,R+194,eGFR AFRICAN AMERICAN,80.0,mL/min/1.73m2,CMP,Reported,Postflight
+C001,R+194,BUN/CREATININE RATIO,22.0,(calc),CMP,Reported,Postflight
+C001,R+194,SODIUM,137.0,mmol/L,CMP,Reported,Postflight
+C001,R+194,POTASSIUM,4.3,mmol/L,CMP,Reported,Postflight
+C001,R+194,CHLORIDE,102.0,mmol/L,CMP,Reported,Postflight
+C001,R+194,CARBON DIOXIDE,23.0,mmol/L,CMP,Reported,Postflight
+C001,R+194,CALCIUM,9.4,mg/dL,CMP,Reported,Postflight
+C001,R+194,PROTEIN; TOTAL,7.0,g/dL,CMP,Reported,Postflight
+C001,R+194,ALBUMIN,4.6,g/dL,CMP,Reported,Postflight
+C001,R+194,GLOBULIN,2.4,g/dL,CMP,Reported,Postflight
+C001,R+194,ALBUMIN/GLOBULIN RATIO,1.9,(calc),CMP,Reported,Postflight
+C001,R+194,BILIRUBIN; TOTAL,0.8,mg/dL,CMP,Reported,Postflight
+C001,R+194,ALKALINE PHOSPHATASE,50.0,U/L,CMP,Reported,Postflight
+C001,R+194,AST,12.0,U/L,CMP,Reported,Postflight
+C001,R+194,ALT,15.0,U/L,CMP,Reported,Postflight
+C002,L-92,GLUCOSE,69.0,mg/dL,CMP,Reported,Preflight
+C002,L-92,UREA NITROGEN (BUN),14.0,mg/dL,CMP,Reported,Preflight
+C002,L-92,CREATININE,0.83,mg/dL,CMP,Reported,Preflight
+C002,L-92,eGFR NON-AFR. AMERICAN,82.0,mL/min/1.73m2,CMP,Reported,Preflight
+C002,L-92,eGFR AFRICAN AMERICAN,95.0,mL/min/1.73m2,CMP,Reported,Preflight
+C002,L-92,BUN/CREATININE RATIO,16.867469879518072,(calc),Derived from BUN / Creatinine,Derived,Preflight
+C002,L-92,SODIUM,142.0,mmol/L,CMP,Reported,Preflight
+C002,L-92,POTASSIUM,3.9,mmol/L,CMP,Reported,Preflight
+C002,L-92,CHLORIDE,103.0,mmol/L,CMP,Reported,Preflight
+C002,L-92,CARBON DIOXIDE,23.0,mmol/L,CMP,Reported,Preflight
+C002,L-92,CALCIUM,10.2,mg/dL,CMP,Reported,Preflight
+C002,L-92,PROTEIN; TOTAL,7.9,g/dL,CMP,Reported,Preflight
+C002,L-92,ALBUMIN,4.9,g/dL,CMP,Reported,Preflight
+C002,L-92,GLOBULIN,3.0,g/dL,CMP,Reported,Preflight
+C002,L-92,ALBUMIN/GLOBULIN RATIO,1.6,(calc),CMP,Reported,Preflight
+C002,L-92,BILIRUBIN; TOTAL,0.5,mg/dL,CMP,Reported,Preflight
+C002,L-92,ALKALINE PHOSPHATASE,73.0,U/L,CMP,Reported,Preflight
+C002,L-92,AST,19.0,U/L,CMP,Reported,Preflight
+C002,L-92,ALT,16.0,U/L,CMP,Reported,Preflight
+C002,L-44,GLUCOSE,72.0,mg/dL,CMP,Reported,Preflight
+C002,L-44,UREA NITROGEN (BUN),16.0,mg/dL,CMP,Reported,Preflight
+C002,L-44,CREATININE,0.88,mg/dL,CMP,Reported,Preflight
+C002,L-44,eGFR NON-AFR. AMERICAN,76.0,mL/min/1.73m2,CMP,Reported,Preflight
+C002,L-44,eGFR AFRICAN AMERICAN,88.0,mL/min/1.73m2,CMP,Reported,Preflight
+C002,L-44,BUN/CREATININE RATIO,18.181818181818183,(calc),Derived from BUN / Creatinine,Derived,Preflight
+C002,L-44,SODIUM,141.0,mmol/L,CMP,Reported,Preflight
+C002,L-44,POTASSIUM,4.0,mmol/L,CMP,Reported,Preflight
+C002,L-44,CHLORIDE,103.0,mmol/L,CMP,Reported,Preflight
+C002,L-44,CARBON DIOXIDE,26.0,mmol/L,CMP,Reported,Preflight
+C002,L-44,CALCIUM,9.7,mg/dL,CMP,Reported,Preflight
+C002,L-44,PROTEIN; TOTAL,7.6,g/dL,CMP,Reported,Preflight
+C002,L-44,ALBUMIN,4.6,g/dL,CMP,Reported,Preflight
+C002,L-44,GLOBULIN,3.0,g/dL,CMP,Reported,Preflight
+C002,L-44,ALBUMIN/GLOBULIN RATIO,1.5,(calc),CMP,Reported,Preflight
+C002,L-44,BILIRUBIN; TOTAL,0.4,mg/dL,CMP,Reported,Preflight
+C002,L-44,ALKALINE PHOSPHATASE,78.0,U/L,CMP,Reported,Preflight
+C002,L-44,AST,31.0,U/L,CMP,Reported,Preflight
+C002,L-44,ALT,24.0,U/L,CMP,Reported,Preflight
+C002,L-3,GLUCOSE,78.0,mg/dL,CMP,Reported,Preflight
+C002,L-3,UREA NITROGEN (BUN),17.0,mg/dL,CMP,Reported,Preflight
+C002,L-3,CREATININE,0.96,mg/dL,CMP,Reported,Preflight
+C002,L-3,eGFR NON-AFR. AMERICAN,68.0,mL/min/1.73m2,CMP,Reported,Preflight
+C002,L-3,eGFR AFRICAN AMERICAN,79.0,mL/min/1.73m2,CMP,Reported,Preflight
+C002,L-3,BUN/CREATININE RATIO,17.708333333333336,(calc),Derived from BUN / Creatinine,Derived,Preflight
+C002,L-3,SODIUM,143.0,mmol/L,CMP,Reported,Preflight
+C002,L-3,POTASSIUM,3.8,mmol/L,CMP,Reported,Preflight
+C002,L-3,CHLORIDE,106.0,mmol/L,CMP,Reported,Preflight
+C002,L-3,CARBON DIOXIDE,24.0,mmol/L,CMP,Reported,Preflight
+C002,L-3,CALCIUM,9.3,mg/dL,CMP,Reported,Preflight
+C002,L-3,PROTEIN; TOTAL,7.0,g/dL,CMP,Reported,Preflight
+C002,L-3,ALBUMIN,4.3,g/dL,CMP,Reported,Preflight
+C002,L-3,GLOBULIN,2.7,g/dL,CMP,Reported,Preflight
+C002,L-3,ALBUMIN/GLOBULIN RATIO,1.6,(calc),CMP,Reported,Preflight
+C002,L-3,BILIRUBIN; TOTAL,0.3,mg/dL,CMP,Reported,Preflight
+C002,L-3,ALKALINE PHOSPHATASE,68.0,U/L,CMP,Reported,Preflight
+C002,L-3,AST,40.0,U/L,CMP,Reported,Preflight
+C002,L-3,ALT,19.0,U/L,CMP,Reported,Preflight
+C002,R+1,GLUCOSE,83.0,mg/dL,CMP,Reported,Postflight
+C002,R+1,UREA NITROGEN (BUN),20.0,mg/dL,CMP,Reported,Postflight
+C002,R+1,CREATININE,0.95,mg/dL,CMP,Reported,Postflight
+C002,R+1,eGFR NON-AFR. AMERICAN,69.0,mL/min/1.73m2,CMP,Reported,Postflight
+C002,R+1,eGFR AFRICAN AMERICAN,80.0,mL/min/1.73m2,CMP,Reported,Postflight
+C002,R+1,BUN/CREATININE RATIO,21.05263157894737,(calc),Derived from BUN / Creatinine,Derived,Postflight
+C002,R+1,SODIUM,137.0,mmol/L,CMP,Reported,Postflight
+C002,R+1,POTASSIUM,3.5,mmol/L,CMP,Reported,Postflight
+C002,R+1,CHLORIDE,103.0,mmol/L,CMP,Reported,Postflight
+C002,R+1,CARBON DIOXIDE,22.0,mmol/L,CMP,Reported,Postflight
+C002,R+1,CALCIUM,9.2,mg/dL,CMP,Reported,Postflight
+C002,R+1,PROTEIN; TOTAL,7.4,g/dL,CMP,Reported,Postflight
+C002,R+1,ALBUMIN,4.4,g/dL,CMP,Reported,Postflight
+C002,R+1,GLOBULIN,3.0,g/dL,CMP,Reported,Postflight
+C002,R+1,ALBUMIN/GLOBULIN RATIO,1.5,(calc),CMP,Reported,Postflight
+C002,R+1,BILIRUBIN; TOTAL,0.4,mg/dL,CMP,Reported,Postflight
+C002,R+1,ALKALINE PHOSPHATASE,71.0,U/L,CMP,Reported,Postflight
+C002,R+1,AST,23.0,U/L,CMP,Reported,Postflight
+C002,R+1,ALT,16.0,U/L,CMP,Reported,Postflight
+C002,R+45,GLUCOSE,44.0,mg/dL,CMP,Reported,Postflight
+C002,R+45,UREA NITROGEN (BUN),19.0,mg/dL,CMP,Reported,Postflight
+C002,R+45,CREATININE,1.02,mg/dL,CMP,Reported,Postflight
+C002,R+45,eGFR NON-AFR. AMERICAN,64.0,mL/min/1.73m2,CMP,Reported,Postflight
+C002,R+45,eGFR AFRICAN AMERICAN,74.0,mL/min/1.73m2,CMP,Reported,Postflight
+C002,R+45,BUN/CREATININE RATIO,18.627450980392158,(calc),Derived from BUN / Creatinine,Derived,Postflight
+C002,R+45,SODIUM,140.0,mmol/L,CMP,Reported,Postflight
+C002,R+45,POTASSIUM,4.1,mmol/L,CMP,Reported,Postflight
+C002,R+45,CHLORIDE,104.0,mmol/L,CMP,Reported,Postflight
+C002,R+45,CARBON DIOXIDE,21.0,mmol/L,CMP,Reported,Postflight
+C002,R+45,CALCIUM,9.3,mg/dL,CMP,Reported,Postflight
+C002,R+45,PROTEIN; TOTAL,6.8,g/dL,CMP,Reported,Postflight
+C002,R+45,ALBUMIN,4.2,g/dL,CMP,Reported,Postflight
+C002,R+45,GLOBULIN,2.6,g/dL,CMP,Reported,Postflight
+C002,R+45,ALBUMIN/GLOBULIN RATIO,1.6,(calc),CMP,Reported,Postflight
+C002,R+45,BILIRUBIN; TOTAL,0.5,mg/dL,CMP,Reported,Postflight
+C002,R+45,ALKALINE PHOSPHATASE,65.0,U/L,CMP,Reported,Postflight
+C002,R+45,AST,17.0,U/L,CMP,Reported,Postflight
+C002,R+45,ALT,14.0,U/L,CMP,Reported,Postflight
+C002,R+82,GLUCOSE,77.0,mg/dL,CMP,Reported,Postflight
+C002,R+82,UREA NITROGEN (BUN),16.0,mg/dL,CMP,Reported,Postflight
+C002,R+82,CREATININE,0.82,mg/dL,CMP,Reported,Postflight
+C002,R+82,eGFR NON-AFR. AMERICAN,83.0,mL/min/1.73m2,CMP,Reported,Postflight
+C002,R+82,eGFR AFRICAN AMERICAN,96.0,mL/min/1.73m2,CMP,Reported,Postflight
+C002,R+82,SODIUM,141.0,mmol/L,CMP,Reported,Postflight
+C002,R+82,POTASSIUM,3.7,mmol/L,CMP,Reported,Postflight
+C002,R+82,CHLORIDE,105.0,mmol/L,CMP,Reported,Postflight
+C002,R+82,CARBON DIOXIDE,25.0,mmol/L,CMP,Reported,Postflight
+C002,R+82,CALCIUM,9.7,mg/dL,CMP,Reported,Postflight
+C002,R+82,PROTEIN; TOTAL,7.3,g/dL,CMP,Reported,Postflight
+C002,R+82,ALBUMIN,4.5,g/dL,CMP,Reported,Postflight
+C002,R+82,GLOBULIN,2.8,g/dL,CMP,Reported,Postflight
+C002,R+82,ALBUMIN/GLOBULIN RATIO,1.6,(calc),CMP,Reported,Postflight
+C002,R+82,BILIRUBIN; TOTAL,0.5,mg/dL,CMP,Reported,Postflight
+C002,R+82,ALKALINE PHOSPHATASE,65.0,U/L,CMP,Reported,Postflight
+C002,R+82,AST,21.0,U/L,CMP,Reported,Postflight
+C002,R+82,ALT,17.0,U/L,CMP,Reported,Postflight
+C002,R+194,GLUCOSE,84.0,mg/dL,CMP,Reported,Postflight
+C002,R+194,UREA NITROGEN (BUN),18.0,mg/dL,CMP,Reported,Postflight
+C002,R+194,CREATININE,1.02,mg/dL,CMP,Reported,Postflight
+C002,R+194,eGFR NON-AFR. AMERICAN,63.0,mL/min/1.73m2,CMP,Reported,Postflight
+C002,R+194,eGFR AFRICAN AMERICAN,73.0,mL/min/1.73m2,CMP,Reported,Postflight
+C002,R+194,BUN/CREATININE RATIO,17.647058823529413,(calc),Derived from BUN / Creatinine,Derived,Postflight
+C002,R+194,SODIUM,138.0,mmol/L,CMP,Reported,Postflight
+C002,R+194,POTASSIUM,4.4,mmol/L,CMP,Reported,Postflight
+C002,R+194,CHLORIDE,104.0,mmol/L,CMP,Reported,Postflight
+C002,R+194,CARBON DIOXIDE,20.0,mmol/L,CMP,Reported,Postflight
+C002,R+194,CALCIUM,9.5,mg/dL,CMP,Reported,Postflight
+C002,R+194,PROTEIN; TOTAL,7.3,g/dL,CMP,Reported,Postflight
+C002,R+194,ALBUMIN,4.3,g/dL,CMP,Reported,Postflight
+C002,R+194,GLOBULIN,3.0,g/dL,CMP,Reported,Postflight
+C002,R+194,ALBUMIN/GLOBULIN RATIO,1.4,(calc),CMP,Reported,Postflight
+C002,R+194,BILIRUBIN; TOTAL,0.3,mg/dL,CMP,Reported,Postflight
+C002,R+194,ALKALINE PHOSPHATASE,66.0,U/L,CMP,Reported,Postflight
+C002,R+194,AST,24.0,U/L,CMP,Reported,Postflight
+C002,R+194,ALT,17.0,U/L,CMP,Reported,Postflight
+C004,L-92,GLUCOSE,100.0,mg/dL,CMP,Reported,Preflight
+C004,L-92,UREA NITROGEN (BUN),22.0,mg/dL,CMP,Reported,Preflight
+C004,L-92,CREATININE,1.14,mg/dL,CMP,Reported,Preflight
+C004,L-92,eGFR NON-AFR. AMERICAN,79.0,mL/min/1.73m2,CMP,Reported,Preflight
+C004,L-92,eGFR AFRICAN AMERICAN,92.0,mL/min/1.73m2,CMP,Reported,Preflight
+C004,L-92,BUN/CREATININE RATIO,19.29824561403509,(calc),Derived from BUN / Creatinine,Derived,Preflight
+C004,L-92,SODIUM,138.0,mmol/L,CMP,Reported,Preflight
+C004,L-92,POTASSIUM,4.2,mmol/L,CMP,Reported,Preflight
+C004,L-92,CHLORIDE,102.0,mmol/L,CMP,Reported,Preflight
+C004,L-92,CARBON DIOXIDE,23.0,mmol/L,CMP,Reported,Preflight
+C004,L-92,CALCIUM,10.0,mg/dL,CMP,Reported,Preflight
+C004,L-92,PROTEIN; TOTAL,7.4,g/dL,CMP,Reported,Preflight
+C004,L-92,ALBUMIN,4.6,g/dL,CMP,Reported,Preflight
+C004,L-92,GLOBULIN,2.8,g/dL,CMP,Reported,Preflight
+C004,L-92,ALBUMIN/GLOBULIN RATIO,1.6,(calc),CMP,Reported,Preflight
+C004,L-92,BILIRUBIN; TOTAL,0.7,mg/dL,CMP,Reported,Preflight
+C004,L-92,ALKALINE PHOSPHATASE,58.0,U/L,CMP,Reported,Preflight
+C004,L-92,AST,36.0,U/L,CMP,Reported,Preflight
+C004,L-92,ALT,37.0,U/L,CMP,Reported,Preflight
+C004,L-44,GLUCOSE,83.0,mg/dL,CMP,Reported,Preflight
+C004,L-44,UREA NITROGEN (BUN),19.0,mg/dL,CMP,Reported,Preflight
+C004,L-44,CREATININE,1.08,mg/dL,CMP,Reported,Preflight
+C004,L-44,eGFR NON-AFR. AMERICAN,85.0,mL/min/1.73m2,CMP,Reported,Preflight
+C004,L-44,eGFR AFRICAN AMERICAN,98.0,mL/min/1.73m2,CMP,Reported,Preflight
+C004,L-44,BUN/CREATININE RATIO,17.59259259259259,(calc),Derived from BUN / Creatinine,Derived,Preflight
+C004,L-44,SODIUM,140.0,mmol/L,CMP,Reported,Preflight
+C004,L-44,POTASSIUM,4.2,mmol/L,CMP,Reported,Preflight
+C004,L-44,CHLORIDE,103.0,mmol/L,CMP,Reported,Preflight
+C004,L-44,CARBON DIOXIDE,24.0,mmol/L,CMP,Reported,Preflight
+C004,L-44,CALCIUM,10.1,mg/dL,CMP,Reported,Preflight
+C004,L-44,PROTEIN; TOTAL,7.3,g/dL,CMP,Reported,Preflight
+C004,L-44,ALBUMIN,4.4,g/dL,CMP,Reported,Preflight
+C004,L-44,GLOBULIN,2.9,g/dL,CMP,Reported,Preflight
+C004,L-44,ALBUMIN/GLOBULIN RATIO,1.5,(calc),CMP,Reported,Preflight
+C004,L-44,BILIRUBIN; TOTAL,0.7,mg/dL,CMP,Reported,Preflight
+C004,L-44,ALKALINE PHOSPHATASE,56.0,U/L,CMP,Reported,Preflight
+C004,L-44,AST,44.0,U/L,CMP,Reported,Preflight
+C004,L-44,ALT,35.0,U/L,CMP,Reported,Preflight
+C004,L-3,GLUCOSE,56.0,mg/dL,CMP,Reported,Preflight
+C004,L-3,UREA NITROGEN (BUN),19.0,mg/dL,CMP,Reported,Preflight
+C004,L-3,CREATININE,1.13,mg/dL,CMP,Reported,Preflight
+C004,L-3,eGFR NON-AFR. AMERICAN,80.0,mL/min/1.73m2,CMP,Reported,Preflight
+C004,L-3,eGFR AFRICAN AMERICAN,92.0,mL/min/1.73m2,CMP,Reported,Preflight
+C004,L-3,BUN/CREATININE RATIO,16.8141592920354,(calc),Derived from BUN / Creatinine,Derived,Preflight
+C004,L-3,SODIUM,141.0,mmol/L,CMP,Reported,Preflight
+C004,L-3,POTASSIUM,3.7,mmol/L,CMP,Reported,Preflight
+C004,L-3,CHLORIDE,103.0,mmol/L,CMP,Reported,Preflight
+C004,L-3,CARBON DIOXIDE,24.0,mmol/L,CMP,Reported,Preflight
+C004,L-3,CALCIUM,10.2,mg/dL,CMP,Reported,Preflight
+C004,L-3,PROTEIN; TOTAL,7.3,g/dL,CMP,Reported,Preflight
+C004,L-3,ALBUMIN,4.6,g/dL,CMP,Reported,Preflight
+C004,L-3,GLOBULIN,2.7,g/dL,CMP,Reported,Preflight
+C004,L-3,ALBUMIN/GLOBULIN RATIO,1.7,(calc),CMP,Reported,Preflight
+C004,L-3,BILIRUBIN; TOTAL,0.5,mg/dL,CMP,Reported,Preflight
+C004,L-3,ALKALINE PHOSPHATASE,55.0,U/L,CMP,Reported,Preflight
+C004,L-3,AST,39.0,U/L,CMP,Reported,Preflight
+C004,L-3,ALT,37.0,U/L,CMP,Reported,Preflight
+C004,R+1,GLUCOSE,97.0,mg/dL,CMP,Reported,Postflight
+C004,R+1,UREA NITROGEN (BUN),26.0,mg/dL,CMP,Reported,Postflight
+C004,R+1,CREATININE,1.15,mg/dL,CMP,Reported,Postflight
+C004,R+1,eGFR NON-AFR. AMERICAN,78.0,mL/min/1.73m2,CMP,Reported,Postflight
+C004,R+1,eGFR AFRICAN AMERICAN,90.0,mL/min/1.73m2,CMP,Reported,Postflight
+C004,R+1,BUN/CREATININE RATIO,23.0,(calc),CMP,Reported,Postflight
+C004,R+1,SODIUM,140.0,mmol/L,CMP,Reported,Postflight
+C004,R+1,POTASSIUM,4.0,mmol/L,CMP,Reported,Postflight
+C004,R+1,CHLORIDE,105.0,mmol/L,CMP,Reported,Postflight
+C004,R+1,CARBON DIOXIDE,23.0,mmol/L,CMP,Reported,Postflight
+C004,R+1,CALCIUM,9.8,mg/dL,CMP,Reported,Postflight
+C004,R+1,PROTEIN; TOTAL,7.4,g/dL,CMP,Reported,Postflight
+C004,R+1,ALBUMIN,4.5,g/dL,CMP,Reported,Postflight
+C004,R+1,GLOBULIN,2.9,g/dL,CMP,Reported,Postflight
+C004,R+1,ALBUMIN/GLOBULIN RATIO,1.6,(calc),CMP,Reported,Postflight
+C004,R+1,BILIRUBIN; TOTAL,0.4,mg/dL,CMP,Reported,Postflight
+C004,R+1,ALKALINE PHOSPHATASE,62.0,U/L,CMP,Reported,Postflight
+C004,R+1,AST,48.0,U/L,CMP,Reported,Postflight
+C004,R+1,ALT,40.0,U/L,CMP,Reported,Postflight
+C004,R+45,GLUCOSE,43.0,mg/dL,CMP,Reported,Postflight
+C004,R+45,UREA NITROGEN (BUN),21.0,mg/dL,CMP,Reported,Postflight
+C004,R+45,CREATININE,1.08,mg/dL,CMP,Reported,Postflight
+C004,R+45,eGFR NON-AFR. AMERICAN,84.0,mL/min/1.73m2,CMP,Reported,Postflight
+C004,R+45,eGFR AFRICAN AMERICAN,98.0,mL/min/1.73m2,CMP,Reported,Postflight
+C004,R+45,BUN/CREATININE RATIO,19.444444444444443,(calc),Derived from BUN / Creatinine,Derived,Postflight
+C004,R+45,SODIUM,139.0,mmol/L,CMP,Reported,Postflight
+C004,R+45,POTASSIUM,5.9,mmol/L,CMP,Reported,Postflight
+C004,R+45,CHLORIDE,102.0,mmol/L,CMP,Reported,Postflight
+C004,R+45,CARBON DIOXIDE,24.0,mmol/L,CMP,Reported,Postflight
+C004,R+45,CALCIUM,9.8,mg/dL,CMP,Reported,Postflight
+C004,R+45,PROTEIN; TOTAL,7.3,g/dL,CMP,Reported,Postflight
+C004,R+45,ALBUMIN,4.5,g/dL,CMP,Reported,Postflight
+C004,R+45,GLOBULIN,2.8,g/dL,CMP,Reported,Postflight
+C004,R+45,ALBUMIN/GLOBULIN RATIO,1.6,(calc),CMP,Reported,Postflight
+C004,R+45,BILIRUBIN; TOTAL,0.7,mg/dL,CMP,Reported,Postflight
+C004,R+45,ALKALINE PHOSPHATASE,60.0,U/L,CMP,Reported,Postflight
+C004,R+45,AST,33.0,U/L,CMP,Reported,Postflight
+C004,R+45,ALT,32.0,U/L,CMP,Reported,Postflight
+C004,R+82,GLUCOSE,80.0,mg/dL,CMP,Reported,Postflight
+C004,R+82,UREA NITROGEN (BUN),16.0,mg/dL,CMP,Reported,Postflight
+C004,R+82,CREATININE,1.11,mg/dL,CMP,Reported,Postflight
+C004,R+82,eGFR NON-AFR. AMERICAN,81.0,mL/min/1.73m2,CMP,Reported,Postflight
+C004,R+82,eGFR AFRICAN AMERICAN,94.0,mL/min/1.73m2,CMP,Reported,Postflight
+C004,R+82,BUN/CREATININE RATIO,14.414414414414413,(calc),Derived from BUN / Creatinine,Derived,Postflight
+C004,R+82,SODIUM,140.0,mmol/L,CMP,Reported,Postflight
+C004,R+82,POTASSIUM,4.2,mmol/L,CMP,Reported,Postflight
+C004,R+82,CHLORIDE,103.0,mmol/L,CMP,Reported,Postflight
+C004,R+82,CARBON DIOXIDE,24.0,mmol/L,CMP,Reported,Postflight
+C004,R+82,CALCIUM,10.0,mg/dL,CMP,Reported,Postflight
+C004,R+82,PROTEIN; TOTAL,7.4,g/dL,CMP,Reported,Postflight
+C004,R+82,ALBUMIN,4.6,g/dL,CMP,Reported,Postflight
+C004,R+82,GLOBULIN,2.8,g/dL,CMP,Reported,Postflight
+C004,R+82,ALBUMIN/GLOBULIN RATIO,1.6,(calc),CMP,Reported,Postflight
+C004,R+82,BILIRUBIN; TOTAL,1.0,mg/dL,CMP,Reported,Postflight
+C004,R+82,ALKALINE PHOSPHATASE,54.0,U/L,CMP,Reported,Postflight
+C004,R+82,AST,25.0,U/L,CMP,Reported,Postflight
+C004,R+82,ALT,23.0,U/L,CMP,Reported,Postflight
+C004,R+194,GLUCOSE,84.0,mg/dL,CMP,Reported,Postflight
+C004,R+194,UREA NITROGEN (BUN),27.0,mg/dL,CMP,Reported,Postflight
+C004,R+194,CREATININE,1.31,mg/dL,CMP,Reported,Postflight
+C004,R+194,eGFR NON-AFR. AMERICAN,67.0,mL/min/1.73m2,CMP,Reported,Postflight
+C004,R+194,eGFR AFRICAN AMERICAN,77.0,mL/min/1.73m2,CMP,Reported,Postflight
+C004,R+194,BUN/CREATININE RATIO,21.0,(calc),CMP,Reported,Postflight
+C004,R+194,SODIUM,141.0,mmol/L,CMP,Reported,Postflight
+C004,R+194,POTASSIUM,3.8,mmol/L,CMP,Reported,Postflight
+C004,R+194,CHLORIDE,105.0,mmol/L,CMP,Reported,Postflight
+C004,R+194,CARBON DIOXIDE,19.0,mmol/L,CMP,Reported,Postflight
+C004,R+194,CALCIUM,9.8,mg/dL,CMP,Reported,Postflight
+C004,R+194,PROTEIN; TOTAL,7.2,g/dL,CMP,Reported,Postflight
+C004,R+194,ALBUMIN,4.3,g/dL,CMP,Reported,Postflight
+C004,R+194,GLOBULIN,2.9,g/dL,CMP,Reported,Postflight
+C004,R+194,ALBUMIN/GLOBULIN RATIO,1.5,(calc),CMP,Reported,Postflight
+C004,R+194,BILIRUBIN; TOTAL,0.5,mg/dL,CMP,Reported,Postflight
+C004,R+194,ALKALINE PHOSPHATASE,57.0,U/L,CMP,Reported,Postflight
+C004,R+194,AST,38.0,U/L,CMP,Reported,Postflight
+C004,R+194,ALT,43.0,U/L,CMP,Reported,Postflight
+C003,L-92,GLUCOSE,77.0,mg/dL,CMP,Reported,Preflight
+C003,L-92,UREA NITROGEN (BUN),17.0,mg/dL,CMP,Reported,Preflight
+C003,L-92,CREATININE,1.0,mg/dL,CMP,Reported,Preflight
+C003,L-92,eGFR NON-AFR. AMERICAN,76.0,mL/min/1.73m2,CMP,Reported,Preflight
+C003,L-92,eGFR AFRICAN AMERICAN,88.0,mL/min/1.73m2,CMP,Reported,Preflight
+C003,L-92,BUN/CREATININE RATIO,17.0,(calc),Derived from BUN / Creatinine,Derived,Preflight
+C003,L-92,SODIUM,139.0,mmol/L,CMP,Reported,Preflight
+C003,L-92,POTASSIUM,3.7,mmol/L,CMP,Reported,Preflight
+C003,L-92,CHLORIDE,102.0,mmol/L,CMP,Reported,Preflight
+C003,L-92,CARBON DIOXIDE,20.0,mmol/L,CMP,Reported,Preflight
+C003,L-92,CALCIUM,9.3,mg/dL,CMP,Reported,Preflight
+C003,L-92,PROTEIN; TOTAL,7.1,g/dL,CMP,Reported,Preflight
+C003,L-92,ALBUMIN,4.4,g/dL,CMP,Reported,Preflight
+C003,L-92,GLOBULIN,2.7,g/dL,CMP,Reported,Preflight
+C003,L-92,ALBUMIN/GLOBULIN RATIO,1.6,(calc),CMP,Reported,Preflight
+C003,L-92,BILIRUBIN; TOTAL,0.3,mg/dL,CMP,Reported,Preflight
+C003,L-92,ALKALINE PHOSPHATASE,33.0,U/L,CMP,Reported,Preflight
+C003,L-92,AST,15.0,U/L,CMP,Reported,Preflight
+C003,L-92,ALT,12.0,U/L,CMP,Reported,Preflight
+C003,L-44,GLUCOSE,62.0,mg/dL,CMP,Reported,Preflight
+C003,L-44,UREA NITROGEN (BUN),19.0,mg/dL,CMP,Reported,Preflight
+C003,L-44,CREATININE,1.03,mg/dL,CMP,Reported,Preflight
+C003,L-44,eGFR NON-AFR. AMERICAN,73.0,mL/min/1.73m2,CMP,Reported,Preflight
+C003,L-44,eGFR AFRICAN AMERICAN,85.0,mL/min/1.73m2,CMP,Reported,Preflight
+C003,L-44,BUN/CREATININE RATIO,18.446601941747574,(calc),Derived from BUN / Creatinine,Derived,Preflight
+C003,L-44,SODIUM,139.0,mmol/L,CMP,Reported,Preflight
+C003,L-44,POTASSIUM,3.5,mmol/L,CMP,Reported,Preflight
+C003,L-44,CHLORIDE,99.0,mmol/L,CMP,Reported,Preflight
+C003,L-44,CARBON DIOXIDE,21.0,mmol/L,CMP,Reported,Preflight
+C003,L-44,CALCIUM,10.3,mg/dL,CMP,Reported,Preflight
+C003,L-44,PROTEIN; TOTAL,8.8,g/dL,CMP,Reported,Preflight
+C003,L-44,ALBUMIN,4.9,g/dL,CMP,Reported,Preflight
+C003,L-44,GLOBULIN,3.9,g/dL,CMP,Reported,Preflight
+C003,L-44,ALBUMIN/GLOBULIN RATIO,1.3,(calc),CMP,Reported,Preflight
+C003,L-44,BILIRUBIN; TOTAL,0.4,mg/dL,CMP,Reported,Preflight
+C003,L-44,ALKALINE PHOSPHATASE,41.0,U/L,CMP,Reported,Preflight
+C003,L-44,AST,17.0,U/L,CMP,Reported,Preflight
+C003,L-44,ALT,13.0,U/L,CMP,Reported,Preflight
+C003,L-3,GLUCOSE,75.0,mg/dL,CMP,Reported,Preflight
+C003,L-3,UREA NITROGEN (BUN),26.0,mg/dL,CMP,Reported,Preflight
+C003,L-3,CREATININE,1.08,mg/dL,CMP,Reported,Preflight
+C003,L-3,eGFR NON-AFR. AMERICAN,69.0,mL/min/1.73m2,CMP,Reported,Preflight
+C003,L-3,eGFR AFRICAN AMERICAN,80.0,mL/min/1.73m2,CMP,Reported,Preflight
+C003,L-3,BUN/CREATININE RATIO,24.0,(calc),CMP,Reported,Preflight
+C003,L-3,SODIUM,138.0,mmol/L,CMP,Reported,Preflight
+C003,L-3,POTASSIUM,3.3,mmol/L,CMP,Reported,Preflight
+C003,L-3,CHLORIDE,101.0,mmol/L,CMP,Reported,Preflight
+C003,L-3,CARBON DIOXIDE,23.0,mmol/L,CMP,Reported,Preflight
+C003,L-3,CALCIUM,9.5,mg/dL,CMP,Reported,Preflight
+C003,L-3,PROTEIN; TOTAL,6.8,g/dL,CMP,Reported,Preflight
+C003,L-3,ALBUMIN,4.2,g/dL,CMP,Reported,Preflight
+C003,L-3,GLOBULIN,2.6,g/dL,CMP,Reported,Preflight
+C003,L-3,ALBUMIN/GLOBULIN RATIO,1.6,(calc),CMP,Reported,Preflight
+C003,L-3,BILIRUBIN; TOTAL,0.2,mg/dL,CMP,Reported,Preflight
+C003,L-3,ALKALINE PHOSPHATASE,31.0,U/L,CMP,Reported,Preflight
+C003,L-3,AST,13.0,U/L,CMP,Reported,Preflight
+C003,L-3,ALT,13.0,U/L,CMP,Reported,Preflight
+C003,R+45,GLUCOSE,36.0,mg/dL,CMP,Reported,Postflight
+C003,R+45,UREA NITROGEN (BUN),19.0,mg/dL,CMP,Reported,Postflight
+C003,R+45,CREATININE,0.94,mg/dL,CMP,Reported,Postflight
+C003,R+45,eGFR NON-AFR. AMERICAN,82.0,mL/min/1.73m2,CMP,Reported,Postflight
+C003,R+45,eGFR AFRICAN AMERICAN,95.0,mL/min/1.73m2,CMP,Reported,Postflight
+C003,R+45,BUN/CREATININE RATIO,20.21276595744681,(calc),Derived from BUN / Creatinine,Derived,Postflight
+C003,R+45,SODIUM,136.0,mmol/L,CMP,Reported,Postflight
+C003,R+45,POTASSIUM,4.4,mmol/L,CMP,Reported,Postflight
+C003,R+45,CHLORIDE,97.0,mmol/L,CMP,Reported,Postflight
+C003,R+45,CARBON DIOXIDE,23.0,mmol/L,CMP,Reported,Postflight
+C003,R+45,CALCIUM,9.6,mg/dL,CMP,Reported,Postflight
+C003,R+45,PROTEIN; TOTAL,7.4,g/dL,CMP,Reported,Postflight
+C003,R+45,ALBUMIN,4.5,g/dL,CMP,Reported,Postflight
+C003,R+45,GLOBULIN,2.9,g/dL,CMP,Reported,Postflight
+C003,R+45,ALBUMIN/GLOBULIN RATIO,1.6,(calc),CMP,Reported,Postflight
+C003,R+45,BILIRUBIN; TOTAL,0.7,mg/dL,CMP,Reported,Postflight
+C003,R+45,ALKALINE PHOSPHATASE,51.0,U/L,CMP,Reported,Postflight
+C003,R+45,AST,19.0,U/L,CMP,Reported,Postflight
+C003,R+45,ALT,17.0,U/L,CMP,Reported,Postflight
+C003,R+82,GLUCOSE,80.0,mg/dL,CMP,Reported,Postflight
+C003,R+82,UREA NITROGEN (BUN),23.0,mg/dL,CMP,Reported,Postflight
+C003,R+82,CREATININE,0.89,mg/dL,CMP,Reported,Postflight
+C003,R+82,eGFR NON-AFR. AMERICAN,87.0,mL/min/1.73m2,CMP,Reported,Postflight
+C003,R+82,eGFR AFRICAN AMERICAN,101.0,mL/min/1.73m2,CMP,Reported,Postflight
+C003,R+82,BUN/CREATININE RATIO,25.84269662921348,(calc),Derived from BUN / Creatinine,Derived,Postflight
+C003,R+82,SODIUM,138.0,mmol/L,CMP,Reported,Postflight
+C003,R+82,POTASSIUM,3.7,mmol/L,CMP,Reported,Postflight
+C003,R+82,CHLORIDE,102.0,mmol/L,CMP,Reported,Postflight
+C003,R+82,CARBON DIOXIDE,23.0,mmol/L,CMP,Reported,Postflight
+C003,R+82,CALCIUM,10.0,mg/dL,CMP,Reported,Postflight
+C003,R+82,PROTEIN; TOTAL,7.5,g/dL,CMP,Reported,Postflight
+C003,R+82,ALBUMIN,4.8,g/dL,CMP,Reported,Postflight
+C003,R+82,GLOBULIN,2.7,g/dL,CMP,Reported,Postflight
+C003,R+82,ALBUMIN/GLOBULIN RATIO,1.8,(calc),CMP,Reported,Postflight
+C003,R+82,BILIRUBIN; TOTAL,0.5,mg/dL,CMP,Reported,Postflight
+C003,R+82,ALKALINE PHOSPHATASE,50.0,U/L,CMP,Reported,Postflight
+C003,R+82,AST,15.0,U/L,CMP,Reported,Postflight
+C003,R+82,ALT,12.0,U/L,CMP,Reported,Postflight
+C003,R+194,GLUCOSE,73.0,mg/dL,CMP,Reported,Postflight
+C003,R+194,UREA NITROGEN (BUN),28.0,mg/dL,CMP,Reported,Postflight
+C003,R+194,CREATININE,1.1,mg/dL,CMP,Reported,Postflight
+C003,R+194,eGFR NON-AFR. AMERICAN,67.0,mL/min/1.73m2,CMP,Reported,Postflight
+C003,R+194,eGFR AFRICAN AMERICAN,78.0,mL/min/1.73m2,CMP,Reported,Postflight
+C003,R+194,BUN/CREATININE RATIO,25.0,(calc),CMP,Reported,Postflight
+C003,R+194,SODIUM,137.0,mmol/L,CMP,Reported,Postflight
+C003,R+194,POTASSIUM,3.8,mmol/L,CMP,Reported,Postflight
+C003,R+194,CHLORIDE,101.0,mmol/L,CMP,Reported,Postflight
+C003,R+194,CARBON DIOXIDE,22.0,mmol/L,CMP,Reported,Postflight
+C003,R+194,CALCIUM,9.6,mg/dL,CMP,Reported,Postflight
+C003,R+194,PROTEIN; TOTAL,7.3,g/dL,CMP,Reported,Postflight
+C003,R+194,ALBUMIN,4.4,g/dL,CMP,Reported,Postflight
+C003,R+194,GLOBULIN,2.9,g/dL,CMP,Reported,Postflight
+C003,R+194,ALBUMIN/GLOBULIN RATIO,1.5,(calc),CMP,Reported,Postflight
+C003,R+194,BILIRUBIN; TOTAL,0.3,mg/dL,CMP,Reported,Postflight
+C003,R+194,ALKALINE PHOSPHATASE,43.0,U/L,CMP,Reported,Postflight
+C003,R+194,AST,15.0,U/L,CMP,Reported,Postflight
+C003,R+194,ALT,10.0,U/L,CMP,Reported,Postflight
+C003,R+1,GLUCOSE,103.0,mg/dL,CMP,Reported,Postflight
+C003,R+1,UREA NITROGEN (BUN),21.0,mg/dL,CMP,Reported,Postflight
+C003,R+1,CREATININE,0.89,mg/dL,CMP,Reported,Postflight
+C003,R+1,eGFR NON-AFR. AMERICAN,88.0,mL/min/1.73m2,CMP,Reported,Postflight
+C003,R+1,eGFR AFRICAN AMERICAN,102.0,mL/min/1.73m2,CMP,Reported,Postflight
+C003,R+1,BUN/CREATININE RATIO,23.595505617977526,(calc),Derived from BUN / Creatinine,Derived,Postflight
+C003,R+1,SODIUM,137.0,mmol/L,CMP,Reported,Postflight
+C003,R+1,POTASSIUM,3.0,mmol/L,CMP,Reported,Postflight
+C003,R+1,CHLORIDE,103.0,mmol/L,CMP,Reported,Postflight
+C003,R+1,CARBON DIOXIDE,20.0,mmol/L,CMP,Reported,Postflight
+C003,R+1,CALCIUM,9.4,mg/dL,CMP,Reported,Postflight
+C003,R+1,PROTEIN; TOTAL,7.1,g/dL,CMP,Reported,Postflight
+C003,R+1,ALBUMIN,4.2,g/dL,CMP,Reported,Postflight
+C003,R+1,GLOBULIN,2.9,g/dL,CMP,Reported,Postflight
+C003,R+1,ALBUMIN/GLOBULIN RATIO,1.4,(calc),CMP,Reported,Postflight
+C003,R+1,BILIRUBIN; TOTAL,0.3,mg/dL,CMP,Reported,Postflight
+C003,R+1,ALKALINE PHOSPHATASE,41.0,U/L,CMP,Reported,Postflight
+C003,R+1,AST,18.0,U/L,CMP,Reported,Postflight
+C003,R+1,ALT,19.0,U/L,CMP,Reported,Postflight
+C001,L-92,a-2 Macroglobulin,903742.69,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-92,a-2 Macroglobulin,2036900.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-92,a-2 Macroglobulin,3030400.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-92,a-2 Macroglobulin,1354300.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,L-44,a-2 Macroglobulin,657943.56,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-44,a-2 Macroglobulin,734243.34,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-44,a-2 Macroglobulin,531433.88,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-44,a-2 Macroglobulin,634017.94,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,L-3,a-2 Macroglobulin,1002300.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-3,a-2 Macroglobulin,1892200.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-3,a-2 Macroglobulin,2948400.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-3,a-2 Macroglobulin,1780800.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,R+1,a-2 Macroglobulin,1048700.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+1,a-2 Macroglobulin,913857.15,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+1,a-2 Macroglobulin,3051700.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+1,a-2 Macroglobulin,1651200.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+45,a-2 Macroglobulin,1130800.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+45,a-2 Macroglobulin,1820800.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+45,a-2 Macroglobulin,2895000.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+45,a-2 Macroglobulin,1526000.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+82,a-2 Macroglobulin,2993600.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+82,a-2 Macroglobulin,1403700.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+82,a-2 Macroglobulin,2127300.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+82,a-2 Macroglobulin,1785900.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+194,a-2 Macroglobulin,1651200.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+194,a-2 Macroglobulin,2342900.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+194,a-2 Macroglobulin,2025600.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+194,a-2 Macroglobulin,1568600.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,L-92,AGP,1048700.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-92,AGP,2932000.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-92,AGP,1850900.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-92,AGP,2918800.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,L-44,AGP,1745700.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-44,AGP,1963300.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-44,AGP,1068100.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-44,AGP,2165100.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,L-3,AGP,1214100.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-3,AGP,3653700.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-3,AGP,1616800.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-3,AGP,3606700.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,R+1,AGP,1034400.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+1,AGP,942754.34,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+1,AGP,1559000.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+1,AGP,3338700.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+45,AGP,1285200.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+45,AGP,2479200.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+45,AGP,3046500.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+45,AGP,3484600.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+82,AGP,2455500.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+82,AGP,2968900.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+82,AGP,3249500.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+82,AGP,2651400.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+194,AGP,2595800.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+194,AGP,2220700.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+194,AGP,2912600.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+194,AGP,4564200.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,L-92,CRP,18385000.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-92,CRP,8927100.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-92,CRP,75749000.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-92,CRP,21378000.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,L-44,CRP,2191000.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-44,CRP,1568500.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-44,CRP,9383100.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-44,CRP,1289600.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,L-3,CRP,5131700.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-3,CRP,11967000.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-3,CRP,42838000.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-3,CRP,13742000.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,R+1,CRP,10637600.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+1,CRP,9311500.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+1,CRP,83617000.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+1,CRP,17701000.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+45,CRP,6713900.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+45,CRP,3677200.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+45,CRP,39190000.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+45,CRP,22407000.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+82,CRP,25030000.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+82,CRP,8633700.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+82,CRP,12680000.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+82,CRP,7902300.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+194,CRP,15415000.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+194,CRP,21462000.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+194,CRP,9379400.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+194,CRP,46006000.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,L-92,Fetuin A36,144424.41,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-92,Fetuin A36,276877.57,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-92,Fetuin A36,357755.04,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-92,Fetuin A36,253064.34,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,L-44,Fetuin A36,194978.74,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-44,Fetuin A36,190495.51,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-44,Fetuin A36,188579.51,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-44,Fetuin A36,180155.97,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,L-3,Fetuin A36,155302.07,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-3,Fetuin A36,294376.04,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-3,Fetuin A36,373933.42,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-3,Fetuin A36,329448.71,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,R+1,Fetuin A36,163848.05,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+1,Fetuin A36,125785.45,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+1,Fetuin A36,334021.3,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+1,Fetuin A36,280617.78,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+45,Fetuin A36,159096.21,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+45,Fetuin A36,270655.44,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+45,Fetuin A36,271898.71,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+45,Fetuin A36,287113.08,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+82,Fetuin A36,300149.84,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+82,Fetuin A36,253558.23,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+82,Fetuin A36,316530.95,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+82,Fetuin A36,245913.55,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+194,Fetuin A36,273640.25,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+194,Fetuin A36,241485.24,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+194,Fetuin A36,295881.1,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+194,Fetuin A36,285112.88,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,L-92,Fibrinogen,3208.77,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-92,Fibrinogen,3657.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-92,Fibrinogen,4153.93,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-92,Fibrinogen,3226.41,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,L-44,Fibrinogen,5707.32,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-44,Fibrinogen,4027.43,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-44,Fibrinogen,3723.84,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-44,Fibrinogen,3602.38,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,L-3,Fibrinogen,2780.38,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-3,Fibrinogen,6533.18,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-3,Fibrinogen,4609.49,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-3,Fibrinogen,5428.66,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,R+1,Fibrinogen,2604.7,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+1,Fibrinogen,1999.88,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+1,Fibrinogen,4531.17,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+1,Fibrinogen,4187.89,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+45,Fibrinogen,2732.11,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+45,Fibrinogen,4074.55,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+45,Fibrinogen,4491.95,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+45,Fibrinogen,2840.5,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+82,Fibrinogen,2513.02,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+82,Fibrinogen,3279.23,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+82,Fibrinogen,4447.08,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+82,Fibrinogen,3553.01,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+194,Fibrinogen,4587.13,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+194,Fibrinogen,2852.5,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+194,Fibrinogen,4334.63,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+194,Fibrinogen,4390.9,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,L-92,Haptoglobin,1049100.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-92,Haptoglobin,3204700.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-92,Haptoglobin,17907000.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-92,Haptoglobin,17907000.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,L-44,Haptoglobin,122441.48,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-44,Haptoglobin,80330.74,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-44,Haptoglobin,203473.61,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-44,Haptoglobin,73870.48,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,L-3,Haptoglobin,1305900.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-3,Haptoglobin,3825900.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-3,Haptoglobin,6263200.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-3,Haptoglobin,17907000.0,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,R+1,Haptoglobin,853104.4,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+1,Haptoglobin,568223.15,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+1,Haptoglobin,5442300.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+1,Haptoglobin,17907000.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+45,Haptoglobin,1864800.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+45,Haptoglobin,3442000.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+45,Haptoglobin,14476000.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+45,Haptoglobin,17907000.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+82,Haptoglobin,13593000.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+82,Haptoglobin,17907000.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+82,Haptoglobin,11995000.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+82,Haptoglobin,2919100.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+194,Haptoglobin,55113000.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+194,Haptoglobin,6036000.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+194,Haptoglobin,2571500.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+194,Haptoglobin,17907000.0,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,L-92,L-Selectin,515957.2,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-92,L-Selectin,1285900.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-92,L-Selectin,1152700.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-92,L-Selectin,1075600.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,L-44,L-Selectin,675114.37,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-44,L-Selectin,893494.17,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-44,L-Selectin,847821.61,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-44,L-Selectin,789635.95,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,L-3,L-Selectin,561452.93,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-3,L-Selectin,1336800.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-3,L-Selectin,1128100.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-3,L-Selectin,1364800.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,R+1,L-Selectin,596429.89,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+1,L-Selectin,629653.79,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+1,L-Selectin,1056400.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+1,L-Selectin,1119400.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+45,L-Selectin,568449.05,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+45,L-Selectin,1247300.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+45,L-Selectin,1317500.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+45,L-Selectin,1256100.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+82,L-Selectin,1266600.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+82,L-Selectin,1114100.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+82,L-Selectin,1058100.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+82,L-Selectin,1193000.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+194,L-Selectin,762532.23,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+194,L-Selectin,1077400.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+194,L-Selectin,1398200.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+194,L-Selectin,1250800.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,L-92,PF4,6973.32,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-92,PF4,13652.06,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-92,PF4,21999.42,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-92,PF4,13080.91,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,L-44,PF4,3903.78,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-44,PF4,3335.42,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-44,PF4,2371.07,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-44,PF4,2156.35,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,L-3,PF4,8602.35,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-3,PF4,15879.14,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-3,PF4,26633.16,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-3,PF4,19678.31,ng/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,R+1,PF4,8143.69,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+1,PF4,5951.22,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+1,PF4,28157.23,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+1,PF4,14317.3,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+45,PF4,6374.28,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+45,PF4,14071.86,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+45,PF4,25381.08,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+45,PF4,15095.42,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+82,PF4,23891.75,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+82,PF4,12168.67,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+82,PF4,21375.52,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+82,PF4,13342.85,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+194,PF4,11371.31,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+194,PF4,21024.9,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+194,PF4,18173.95,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+194,PF4,15624.9,ng/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,L-92,SAP,4760000.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-92,SAP,10983000.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-92,SAP,16583000.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-92,SAP,10138000.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,L-44,SAP,5428000.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-44,SAP,4509000.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-44,SAP,5319800.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-44,SAP,4048000.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,L-3,SAP,6057300.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C002,L-3,SAP,11733000.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C003,L-3,SAP,18242000.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C004,L-3,SAP,12111000.0,pg/ml,Cardiovascular EvePanel,Reported,Preflight
+C001,R+1,SAP,6183500.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+1,SAP,5592700.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+1,SAP,16745000.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+1,SAP,12329000.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+45,SAP,6670900.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+45,SAP,10765000.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+45,SAP,13993000.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+45,SAP,11850000.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+82,SAP,13775000.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+82,SAP,10210000.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+82,SAP,13595000.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+82,SAP,9482000.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C001,R+194,SAP,7739400.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+194,SAP,11337000.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C003,R+194,SAP,12038000.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C004,R+194,SAP,13414000.0,pg/ml,Cardiovascular EvePanel,Reported,Postflight
+C002,R+82,BUN/CREATININE RATIO,19.51219512195122,Ratio,Derived from BUN / Creatinine,Derived,Postflight

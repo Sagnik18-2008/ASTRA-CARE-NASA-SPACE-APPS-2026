@@ -1,0 +1,26 @@
+﻿# Environment secrets
+**/.env
+**/.env.*
+!.env.example
+
+# Python environments
+**/.venv/
+**/.venv_old/
+**/venv/
+**/__pycache__/
+**/*.pyc
+
+# Node dependencies and builds
+**/node_modules/
+**/dist/
+**/build/
+
+# Demo videos - hosted separately
+**/*.mp4
+**/*.mov
+**/*.avi
+
+# Logs and system files
+**/*.log
+.DS_Store
+Thumbs.db

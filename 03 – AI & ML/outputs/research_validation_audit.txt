@@ -1,0 +1,50 @@
+ASTRA CARE — RESEARCH VALIDATION AUDIT
+=======================================================
+Audit date: 2026-11-14 12:28
+
+FILE VERIFICATION
+-------------------------------------------------------
+PRESENT: data/processed/integrated_long.csv
+PRESENT: data/processed/integrated_wide.csv
+PRESENT: data/processed/imputed_dataset.csv
+PRESENT: data/processed/log_transformed_dataset.csv
+PRESENT: data/processed/preprocessed_dataset.csv
+PRESENT: data/processed/pca_coordinates.csv
+PRESENT: data/processed/cluster_assignments.csv
+PRESENT: outputs/pca_explained_variance.csv
+PRESENT: outputs/pca_loadings.csv
+PRESENT: outputs/clustering_comparison.csv
+PRESENT: outputs/classification_model_comparison.csv
+PRESENT: outputs/classification_predictions.csv
+PRESENT: outputs/participant_model_stability.csv
+PRESENT: outputs/participant_model_stability_summary.csv
+PRESENT: outputs/xai_corrected_participant_importance.csv
+PRESENT: outputs/xai_corrected_biomarker_summary.csv
+PRESENT: models/median_imputer.joblib
+PRESENT: models/standard_scaler.joblib
+PRESENT: models/pca_model.joblib
+
+DATA CONSISTENCY CHECKS
+-------------------------------------------------------
+PASS: Integrated observations = 28
+PASS: Four participants present
+PASS: Seven timepoints present
+PASS: XAI biomarkers = 26
+PASS: XAI participant folds = 4
+PASS: XAI records = 104
+
+SUMMARY
+-------------------------------------------------------
+Files checked: 19
+Files present: 19
+Files missing: 0
+Consistency checks passed: 6
+Consistency checks failed: 0
+
+SCIENTIFIC LIMITATIONS
+-------------------------------------------------------
+Only four independent participants were available.
+Repeated measurements are not independent participants.
+Classification and XAI findings are exploratory.
+No clinical diagnostic claims are supported.
+Race-specific eGFR features were excluded from classification.

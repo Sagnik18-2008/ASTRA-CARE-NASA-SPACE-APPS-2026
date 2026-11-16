@@ -1,0 +1,13 @@
+ASTRA CARE — INTEGRATION AUDIT
+=======================================================
+Participants: 4
+Timepoints: 7
+Rows: 28
+Features: 28
+Reported ratios verified: 6
+Derived ratios: 22
+Missing feature cells: 1
+
+Missing values were not fabricated.
+Derived ratios are explicitly labelled.
+Reference metadata is stored separately.

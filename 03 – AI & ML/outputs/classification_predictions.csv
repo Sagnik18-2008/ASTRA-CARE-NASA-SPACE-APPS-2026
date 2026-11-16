@@ -1,0 +1,141 @@
+Model,ID,Timepoint,Actual_Phase,Actual_Label,Predicted_Label,Correct
+Majority Baseline,C001,L-92,Preflight,0,1,False
+Majority Baseline,C001,L-44,Preflight,0,1,False
+Majority Baseline,C001,L-3,Preflight,0,1,False
+Majority Baseline,C001,R+1,Postflight,1,1,True
+Majority Baseline,C001,R+45,Postflight,1,1,True
+Majority Baseline,C001,R+82,Postflight,1,1,True
+Majority Baseline,C001,R+194,Postflight,1,1,True
+Majority Baseline,C002,L-92,Preflight,0,1,False
+Majority Baseline,C002,L-44,Preflight,0,1,False
+Majority Baseline,C002,L-3,Preflight,0,1,False
+Majority Baseline,C002,R+1,Postflight,1,1,True
+Majority Baseline,C002,R+45,Postflight,1,1,True
+Majority Baseline,C002,R+82,Postflight,1,1,True
+Majority Baseline,C002,R+194,Postflight,1,1,True
+Majority Baseline,C003,L-92,Preflight,0,1,False
+Majority Baseline,C003,L-44,Preflight,0,1,False
+Majority Baseline,C003,L-3,Preflight,0,1,False
+Majority Baseline,C003,R+1,Postflight,1,1,True
+Majority Baseline,C003,R+45,Postflight,1,1,True
+Majority Baseline,C003,R+82,Postflight,1,1,True
+Majority Baseline,C003,R+194,Postflight,1,1,True
+Majority Baseline,C004,L-92,Preflight,0,1,False
+Majority Baseline,C004,L-44,Preflight,0,1,False
+Majority Baseline,C004,L-3,Preflight,0,1,False
+Majority Baseline,C004,R+1,Postflight,1,1,True
+Majority Baseline,C004,R+45,Postflight,1,1,True
+Majority Baseline,C004,R+82,Postflight,1,1,True
+Majority Baseline,C004,R+194,Postflight,1,1,True
+Logistic Regression,C001,L-92,Preflight,0,0,True
+Logistic Regression,C001,L-44,Preflight,0,0,True
+Logistic Regression,C001,L-3,Preflight,0,0,True
+Logistic Regression,C001,R+1,Postflight,1,1,True
+Logistic Regression,C001,R+45,Postflight,1,0,False
+Logistic Regression,C001,R+82,Postflight,1,1,True
+Logistic Regression,C001,R+194,Postflight,1,1,True
+Logistic Regression,C002,L-92,Preflight,0,1,False
+Logistic Regression,C002,L-44,Preflight,0,1,False
+Logistic Regression,C002,L-3,Preflight,0,1,False
+Logistic Regression,C002,R+1,Postflight,1,1,True
+Logistic Regression,C002,R+45,Postflight,1,1,True
+Logistic Regression,C002,R+82,Postflight,1,1,True
+Logistic Regression,C002,R+194,Postflight,1,1,True
+Logistic Regression,C003,L-92,Preflight,0,1,False
+Logistic Regression,C003,L-44,Preflight,0,0,True
+Logistic Regression,C003,L-3,Preflight,0,1,False
+Logistic Regression,C003,R+1,Postflight,1,1,True
+Logistic Regression,C003,R+45,Postflight,1,1,True
+Logistic Regression,C003,R+82,Postflight,1,1,True
+Logistic Regression,C003,R+194,Postflight,1,1,True
+Logistic Regression,C004,L-92,Preflight,0,1,False
+Logistic Regression,C004,L-44,Preflight,0,0,True
+Logistic Regression,C004,L-3,Preflight,0,0,True
+Logistic Regression,C004,R+1,Postflight,1,0,False
+Logistic Regression,C004,R+45,Postflight,1,1,True
+Logistic Regression,C004,R+82,Postflight,1,0,False
+Logistic Regression,C004,R+194,Postflight,1,0,False
+Random Forest,C001,L-92,Preflight,0,1,False
+Random Forest,C001,L-44,Preflight,0,0,True
+Random Forest,C001,L-3,Preflight,0,0,True
+Random Forest,C001,R+1,Postflight,1,0,False
+Random Forest,C001,R+45,Postflight,1,0,False
+Random Forest,C001,R+82,Postflight,1,0,False
+Random Forest,C001,R+194,Postflight,1,1,True
+Random Forest,C002,L-92,Preflight,0,1,False
+Random Forest,C002,L-44,Preflight,0,0,True
+Random Forest,C002,L-3,Preflight,0,1,False
+Random Forest,C002,R+1,Postflight,1,0,False
+Random Forest,C002,R+45,Postflight,1,1,True
+Random Forest,C002,R+82,Postflight,1,1,True
+Random Forest,C002,R+194,Postflight,1,1,True
+Random Forest,C003,L-92,Preflight,0,1,False
+Random Forest,C003,L-44,Preflight,0,0,True
+Random Forest,C003,L-3,Preflight,0,1,False
+Random Forest,C003,R+1,Postflight,1,1,True
+Random Forest,C003,R+45,Postflight,1,1,True
+Random Forest,C003,R+82,Postflight,1,1,True
+Random Forest,C003,R+194,Postflight,1,1,True
+Random Forest,C004,L-92,Preflight,0,1,False
+Random Forest,C004,L-44,Preflight,0,0,True
+Random Forest,C004,L-3,Preflight,0,0,True
+Random Forest,C004,R+1,Postflight,1,1,True
+Random Forest,C004,R+45,Postflight,1,1,True
+Random Forest,C004,R+82,Postflight,1,1,True
+Random Forest,C004,R+194,Postflight,1,1,True
+SVM,C001,L-92,Preflight,0,1,False
+SVM,C001,L-44,Preflight,0,0,True
+SVM,C001,L-3,Preflight,0,1,False
+SVM,C001,R+1,Postflight,1,1,True
+SVM,C001,R+45,Postflight,1,1,True
+SVM,C001,R+82,Postflight,1,1,True
+SVM,C001,R+194,Postflight,1,1,True
+SVM,C002,L-92,Preflight,0,1,False
+SVM,C002,L-44,Preflight,0,0,True
+SVM,C002,L-3,Preflight,0,1,False
+SVM,C002,R+1,Postflight,1,1,True
+SVM,C002,R+45,Postflight,1,1,True
+SVM,C002,R+82,Postflight,1,1,True
+SVM,C002,R+194,Postflight,1,1,True
+SVM,C003,L-92,Preflight,0,1,False
+SVM,C003,L-44,Preflight,0,1,False
+SVM,C003,L-3,Preflight,0,1,False
+SVM,C003,R+1,Postflight,1,1,True
+SVM,C003,R+45,Postflight,1,1,True
+SVM,C003,R+82,Postflight,1,1,True
+SVM,C003,R+194,Postflight,1,1,True
+SVM,C004,L-92,Preflight,0,1,False
+SVM,C004,L-44,Preflight,0,0,True
+SVM,C004,L-3,Preflight,0,0,True
+SVM,C004,R+1,Postflight,1,0,False
+SVM,C004,R+45,Postflight,1,1,True
+SVM,C004,R+82,Postflight,1,1,True
+SVM,C004,R+194,Postflight,1,1,True
+Decision Tree,C001,L-92,Preflight,0,1,False
+Decision Tree,C001,L-44,Preflight,0,1,False
+Decision Tree,C001,L-3,Preflight,0,0,True
+Decision Tree,C001,R+1,Postflight,1,1,True
+Decision Tree,C001,R+45,Postflight,1,0,False
+Decision Tree,C001,R+82,Postflight,1,1,True
+Decision Tree,C001,R+194,Postflight,1,1,True
+Decision Tree,C002,L-92,Preflight,0,1,False
+Decision Tree,C002,L-44,Preflight,0,0,True
+Decision Tree,C002,L-3,Preflight,0,1,False
+Decision Tree,C002,R+1,Postflight,1,0,False
+Decision Tree,C002,R+45,Postflight,1,1,True
+Decision Tree,C002,R+82,Postflight,1,1,True
+Decision Tree,C002,R+194,Postflight,1,1,True
+Decision Tree,C003,L-92,Preflight,0,1,False
+Decision Tree,C003,L-44,Preflight,0,0,True
+Decision Tree,C003,L-3,Preflight,0,1,False
+Decision Tree,C003,R+1,Postflight,1,1,True
+Decision Tree,C003,R+45,Postflight,1,1,True
+Decision Tree,C003,R+82,Postflight,1,0,False
+Decision Tree,C003,R+194,Postflight,1,1,True
+Decision Tree,C004,L-92,Preflight,0,1,False
+Decision Tree,C004,L-44,Preflight,0,0,True
+Decision Tree,C004,L-3,Preflight,0,0,True
+Decision Tree,C004,R+1,Postflight,1,1,True
+Decision Tree,C004,R+45,Postflight,1,1,True
+Decision Tree,C004,R+82,Postflight,1,1,True
+Decision Tree,C004,R+194,Postflight,1,1,True

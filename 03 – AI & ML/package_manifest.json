@@ -1,0 +1,190 @@
+[
+    {
+        "path": "README.md",
+        "size_bytes": 1234
+    },
+    {
+        "path": "environment_versions.json",
+        "size_bytes": 228
+    },
+    {
+        "path": "ASTRA_CARE_AIML.ipynb",
+        "size_bytes": 586471
+    },
+    {
+        "path": "outputs/imputation_report.csv",
+        "size_bytes": 693
+    },
+    {
+        "path": "outputs/preprocessing_audit.txt",
+        "size_bytes": 282
+    },
+    {
+        "path": "outputs/pca_explained_variance.csv",
+        "size_bytes": 485
+    },
+    {
+        "path": "outputs/pca_scree_plot.png",
+        "size_bytes": 130546
+    },
+    {
+        "path": "outputs/pca_phase_scatter.png",
+        "size_bytes": 155827
+    },
+    {
+        "path": "outputs/pca_loadings.csv",
+        "size_bytes": 6066
+    },
+    {
+        "path": "outputs/clustering_comparison.csv",
+        "size_bytes": 294
+    },
+    {
+        "path": "outputs/cluster_phase_composition.csv",
+        "size_bytes": 42
+    },
+    {
+        "path": "outputs/cluster_participant_composition.csv",
+        "size_bytes": 48
+    },
+    {
+        "path": "outputs/clustering_pca_visualization.png",
+        "size_bytes": 137196
+    },
+    {
+        "path": "outputs/clustering_silhouette_comparison.png",
+        "size_bytes": 161510
+    },
+    {
+        "path": "outputs/classification_model_comparison.csv",
+        "size_bytes": 561
+    },
+    {
+        "path": "outputs/classification_predictions.csv",
+        "size_bytes": 6200
+    },
+    {
+        "path": "outputs/classification_participant_performance.csv",
+        "size_bytes": 167
+    },
+    {
+        "path": "outputs/classification_confusion_matrix.csv",
+        "size_bytes": 86
+    },
+    {
+        "path": "outputs/participant_model_stability.csv",
+        "size_bytes": 1137
+    },
+    {
+        "path": "outputs/participant_model_stability_summary.csv",
+        "size_bytes": 488
+    },
+    {
+        "path": "outputs/xai_participant_permutation_importance.csv",
+        "size_bytes": 3084
+    },
+    {
+        "path": "outputs/xai_biomarker_importance_summary.csv",
+        "size_bytes": 1340
+    },
+    {
+        "path": "outputs/xai_participant_importance_matrix.csv",
+        "size_bytes": 858
+    },
+    {
+        "path": "outputs/xai_biomarker_importance.png",
+        "size_bytes": 173062
+    },
+    {
+        "path": "outputs/xai_corrected_participant_importance.csv",
+        "size_bytes": 3084
+    },
+    {
+        "path": "outputs/xai_corrected_biomarker_summary.csv",
+        "size_bytes": 1340
+    },
+    {
+        "path": "outputs/research_validation_manifest.csv",
+        "size_bytes": 1084
+    },
+    {
+        "path": "outputs/research_validation_audit.txt",
+        "size_bytes": 1855
+    },
+    {
+        "path": "outputs/ASTRA_CARE_AIML_Research_Report.docx",
+        "size_bytes": 510918
+    },
+    {
+        "path": "models/median_imputer.joblib",
+        "size_bytes": 1351
+    },
+    {
+        "path": "models/standard_scaler.joblib",
+        "size_bytes": 1927
+    },
+    {
+        "path": "models/feature_columns.json",
+        "size_bytes": 532
+    },
+    {
+        "path": "models/pca_model.joblib",
+        "size_bytes": 4279
+    },
+    {
+        "path": "models/kmeans_model.joblib",
+        "size_bytes": 1927
+    },
+    {
+        "path": "data/raw/LSDS-8_Multiplex_serum.immune.AlamarPanel_SUBMITTED.xlsx",
+        "size_bytes": 322799
+    },
+    {
+        "path": "data/raw/LSDS-8_Comprehensive_Metabolic_Panel_CMP.upload_SUBMITTED.csv",
+        "size_bytes": 25275
+    },
+    {
+        "path": "data/raw/LSDS-8_Multiplex_serum.cardiovascular.EvePanel_SUBMITTED.csv",
+        "size_bytes": 15241
+    },
+    {
+        "path": "data/processed/cmp_reference_metadata.csv",
+        "size_bytes": 23876
+    },
+    {
+        "path": "data/processed/integrated_long.csv",
+        "size_bytes": 51539
+    },
+    {
+        "path": "data/processed/integrated_wide.csv",
+        "size_bytes": 6284
+    },
+    {
+        "path": "data/processed/missingness_report.csv",
+        "size_bytes": 557
+    },
+    {
+        "path": "data/processed/integration_audit.txt",
+        "size_bytes": 331
+    },
+    {
+        "path": "data/processed/preprocessed_dataset.csv",
+        "size_bytes": 16385
+    },
+    {
+        "path": "data/processed/imputed_dataset.csv",
+        "size_bytes": 5586
+    },
+    {
+        "path": "data/processed/log_transformed_dataset.csv",
+        "size_bytes": 14827
+    },
+    {
+        "path": "data/processed/pca_coordinates.csv",
+        "size_bytes": 6187
+    },
+    {
+        "path": "data/processed/cluster_assignments.csv",
+        "size_bytes": 763
+    }
+]
